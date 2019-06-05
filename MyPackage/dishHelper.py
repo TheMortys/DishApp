@@ -76,12 +76,12 @@ def saveGeneratedDishes(filename):
         json.dump(dishesCounter, outfile, indent=4)
 
 def saveDishes():
-    with open('packageData/myData.dat', 'w') as outfile:
+    with open('packageData.dat', 'w') as outfile:
         json.dump(data, outfile, indent=4)
 
 def loadDishes():
     this_dir, this_filename = os.path.split(__file__)
-    DATA_PATH = os.path.join(this_dir, "packageData", "myData.dat")
+    DATA_PATH = os.path.join(this_dir, "packageData.dat")
     global data
     with open(DATA_PATH, "r") as read_file:
         data = json.load(read_file)
