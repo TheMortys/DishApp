@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dishHelper
+Version: 0.1
+Summary: Package to help with dishes for guests
+Home-page: https://github.com/TheMortys/DishApp
+Author: Marek Morys
+Author-email: example@mail.com
+License: MIT
+Description: # DishApp
+Platform: UNKNOWN
