@@ -1,0 +1,143 @@
+{
+    "dishes": [
+        {
+            "name": "Jajecznica z chorizo",
+            "ingredients": {
+                "Jajka": 3,
+                "Chorizo": 0.15,
+                "Parmezan": 1,
+                "Szczypiorek": 1,
+                "Pieprz": 1,
+                "S\u00f3l": 1
+            },
+            "type": "Meat",
+            "meal": "Breakfast"
+        },
+        {
+            "name": "Owsianka z karmelizowanym bananem i owocami",
+            "ingredients": {
+                "P\u0142atki owsiane": 0.03,
+                "Mleko": 0.5,
+                "Mi\u00f3d": 0.01,
+                "Mas\u0142o": 0.01,
+                "Banan": 1
+            },
+            "type": "Vegetarian",
+            "meal": "Breakfast"
+        },
+        {
+            "name": "Budy\u0144 jaglany z mas\u0142em orzechowym",
+            "ingredients": {
+                "Kasza jaglana": 0.09,
+                "Mleko migda\u0142owe": 0.5,
+                "Mas\u0142o orzechowe": 0.04,
+                "Banan": 1,
+                "Granat": 0.08,
+                "Syrop klonowy": 0.02
+            },
+            "type": "Vegan",
+            "meal": "Breakfast"
+        },
+        {
+            "name": "Ryba ze szpinakiem",
+            "ingredients": {
+                "Dorsz": 0.5,
+                "M\u0105ka pszenna": 0.02,
+                "Curry": 0.02,
+                "Szpinak": 0.2,
+                "Mas\u0142o": 0.01,
+                "Czosnek": 0.01,
+                "\u015amietana 30%": 0.125,
+                "M\u0105ka ziemniaczana": 0.005,
+                "Oliwa": 0.03
+            },
+            "type": "Meat",
+            "meal": "Dinner"
+        },
+        {
+            "name": "Go\u0142\u0105bki ziemniaczane",
+            "ingredients": {
+                "Kapusta": 1,
+                "Ziemniaki": 1.5,
+                "Papryka": 1,
+                "Pieczarki": 0.2,
+                "Cebula": 2,
+                "Jajka": 1,
+                "M\u0105ka": 0.01,
+                "Pietruszka": 1,
+                "S\u00f3l": 1,
+                "Pieprz": 1,
+                "Majeranek": 1,
+                "Olej rzepakowy": 0.1
+            },
+            "type": "Vegetarian",
+            "meal": "Dinner"
+        },
+        {
+            "name": "Kaszotto warzywne",
+            "ingredients": {
+                "Oliwa": 0.09,
+                "Czosnek": 0.01,
+                "Cebula": 0.04,
+                "P\u0119czak": 1,
+                "Marchewka": 0.08,
+                "Pietruszka": 0.02,
+                "Seler": 0.08,
+                "Cukinia": 0.4,
+                "Groszek": 0.06,
+                "Papryka": 0.005,
+                "Woda": 0.2,
+                "Sos sojowy": 0.01,
+                "Ocet balsamiczny": 0.01
+            },
+            "type": "Vegan",
+            "meal": "Dinner"
+        },
+        {
+            "name": "Szasz\u0142yki z kie\u0142bas\u0105",
+            "ingredients": {
+                "Ciasto francuskie": 0.375,
+                "Kie\u0142basa": 0.5,
+                "Majeranek": 0.01,
+                "Oregano": 0.01,
+                "Ser": 0.1
+            },
+            "type": "Meat",
+            "meal": "Supper"
+        },
+        {
+            "name": "Kanapka z jajkiem i awokado",
+            "ingredients": {
+                "Jajka": 0.1,
+                "Pieczywo razowe": 0.13,
+                "Mas\u0142o": 0.01,
+                "Awokado": 0.13,
+                "Og\u00f3rek": 0.07,
+                "Majonez": 0.02,
+                "Rze\u017cucha": 0.01
+            },
+            "type": "Vegetarian",
+            "meal": "Supper"
+        },
+        {
+            "name": "Sa\u0142atka z batatami",
+            "ingredients": {
+                "Batat": 0.25,
+                "Ciecierzyca": 0.09,
+                "Rukola": 0.05,
+                "Granat": 0.08,
+                "Papryczka chili": 0.02,
+                "Kolendra": 0.01,
+                "S\u0142odka papryka": 0.01,
+                "Ostra papryka": 0.01,
+                "Kminek": 0.01,
+                "Sok z cytryny": 0.01,
+                "Oliwa": 0.01,
+                "Pasta tahini": 0.02,
+                "Syrop klonowy": 0.02
+            },
+            "type": "Vegan",
+            "meal": "Supper"
+        }
+    ]
+}
